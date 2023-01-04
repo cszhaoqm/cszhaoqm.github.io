@@ -8,10 +8,9 @@
 </head>
 
 <body>
-  <von-app></von-app>
-</body>
 <h2>
 This is the main page for cszhaoqm in Github.
 Link to https://github.com/cszhaoqm
 </h2>
+</body>
 </html>
