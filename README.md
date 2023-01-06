@@ -1,5 +1,5 @@
-# This is index page for cszhaoqm in Github.
+## index page of cszhaoqm
 
-## [Main](https://github.com/cszhaoqm "Markdown")
-## [Docs](https://cszhaoqm.github.io/docs "Markdown")
+## [Main](https://github.com/cszhaoqm)
+## [Docs](https://cszhaoqm.github.io/docs)
 ## [About](https://cszhaoqm.github.io/about)
